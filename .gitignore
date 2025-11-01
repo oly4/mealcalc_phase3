@@ -1,0 +1,6 @@
+.DS_Store
+build/
+build_test/
+nutrition_data.ser
+*.class
+*.csv
